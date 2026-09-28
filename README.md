@@ -1,5 +1,5 @@
 # [Đề và Code môn Cấu trúc dữ liệu và giải thuật (DSA)](https://github.com/nvbangg/CodePTIT_DSA) trên [CodePTIT](https://code.ptit.edu.vn)
-## Source: https://github.com/nvbangg/PTIT_Docs
+## Source: https://github.com/nvbangg/PTIT-Docs
 
 ## Generation
 
